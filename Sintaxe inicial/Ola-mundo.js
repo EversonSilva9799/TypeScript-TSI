@@ -20,3 +20,4 @@ console.log("Minutos " + data.getMinutes())
 console.log("Mês do ano " + data.getMonth())
 console.log("Dia do mês " + data.getDate())
 */ 
+//aprimorar codigo
